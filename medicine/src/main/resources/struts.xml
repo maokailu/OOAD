@@ -8,6 +8,18 @@
 	<constant name="struts.i18n.encoding" value="utf-8" />
 	<!-- Struts2的所有Action都需位于package下 -->
 	<package name="medicine" namespace="" extends="struts-default" strict-method-invocation="false">
+		<action name="showBuy"  class="action.BuyAction" method="show">
+		</action>
+		<action name="supplierBuy"  class="action.BuyAction" method="supplier">
+		</action>
+		<action name="medicineBuy"  class="action.BuyAction" method="medicine">
+		</action>
+		<action name="personBuy"  class="action.BuyAction" method="person">
+		</action>
+		<action name="addBuy"  class="action.BuyAction" method="add">
+		</action>
+		<action name="showReport"  class="action.ReportAction" method="show">
+		</action>
 		<action name="guitarSearch"  class="action.GuitarAction" method="search">
 		</action>
 		<action name="*">
