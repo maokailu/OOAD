@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
@@ -31,10 +31,10 @@ $(function() {
 			 		}
 	 			],
 	    columns:[[  
-	              {field:'guitarId',title:'吉他编号'} ,
-	              {field:'guitarName',title:'吉他名字'}, 
-	              {field:'guitarType',title:'吉他类型'},
-	              {field:'guitarPrice',title:'吉他价格'} 
+	               {field:'guitarId',title:'吉他编号',width:100} ,
+	              {field:'guitarName',title:'吉他名字',width:100}, 
+	              {field:'guitarType',title:'吉他类型',width:100},
+	              {field:'guitarPrice',title:'吉他价格',width:100}
 	    ]]
 	});
     $('#tb').textbox({
