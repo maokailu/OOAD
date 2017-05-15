@@ -10,8 +10,9 @@
 ###4、根据背部材料查询
 ![根据价格查询](image/backWood1.png) 
 ![根据价格查询](image/backWood2.png) 
-###4、根据顶部材料查询
+###5、根据顶部材料查询
 ![根据价格查询](image/topWood1.png) 
 ![根据价格查询](image/topWood2.png) 
-###4、查询全部
-![根据价格查询](image/all.png)  
+###6、查询全部
+###7、测试
+![根据价格查询](image/test.png)  
