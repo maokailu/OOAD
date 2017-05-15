@@ -16,5 +16,5 @@
 ###6、查询全部
 ![查询全部](image/all.png) 
 ###7、测试
-![测试](image/test.png)  
+ ![测试](image/test.png)  
 ![前台页面](image/testjsp.png)  
