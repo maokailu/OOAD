@@ -12,3 +12,5 @@
 ![](image/deleteResult.png) 
 ## 7、测试
 ![](image/test.png) 
+## 8、项目结构
+![](image/structure.png) 
