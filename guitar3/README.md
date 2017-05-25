@@ -1,5 +1,5 @@
 ﻿## 1、显示全部
-![](all.png) 
+![](image/all.png) 
 ## 2、查询
 ![](image/query.png)    
 ## 3、添加操作
