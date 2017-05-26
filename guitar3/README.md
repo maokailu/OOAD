@@ -5,7 +5,7 @@
 ## 3、添加操作
 ![](image/addOperation.png) 
 ## 4、添加结果
-![](image/addResult.png) 
+![](image/add.png) 
 ## 5、删除提示
 ![](image/deleteTip.png) 
 ## 6、删除结果
